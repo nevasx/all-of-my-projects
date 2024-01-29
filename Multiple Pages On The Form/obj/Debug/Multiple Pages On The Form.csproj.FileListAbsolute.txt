@@ -1,0 +1,13 @@
+C:\Users\neva\Documents\visual studio projeleri\Multiple Pages On The Form\bin\Debug\Multiple Pages On The Form.exe.config
+C:\Users\neva\Documents\visual studio projeleri\Multiple Pages On The Form\bin\Debug\Multiple Pages On The Form.exe
+C:\Users\neva\Documents\visual studio projeleri\Multiple Pages On The Form\bin\Debug\Multiple Pages On The Form.pdb
+C:\Users\neva\Documents\visual studio projeleri\Multiple Pages On The Form\obj\Debug\Multiple Pages On The Form.csproj.AssemblyReference.cache
+C:\Users\neva\Documents\visual studio projeleri\Multiple Pages On The Form\obj\Debug\Multiple_Pages_On_The_Form.Form1.resources
+C:\Users\neva\Documents\visual studio projeleri\Multiple Pages On The Form\obj\Debug\Multiple_Pages_On_The_Form.Properties.Resources.resources
+C:\Users\neva\Documents\visual studio projeleri\Multiple Pages On The Form\obj\Debug\Multiple_Pages_On_The_Form.UserControl1.resources
+C:\Users\neva\Documents\visual studio projeleri\Multiple Pages On The Form\obj\Debug\Multiple_Pages_On_The_Form.UserControl2.resources
+C:\Users\neva\Documents\visual studio projeleri\Multiple Pages On The Form\obj\Debug\Multiple_Pages_On_The_Form.UserControl3.resources
+C:\Users\neva\Documents\visual studio projeleri\Multiple Pages On The Form\obj\Debug\Multiple Pages On The Form.csproj.GenerateResource.cache
+C:\Users\neva\Documents\visual studio projeleri\Multiple Pages On The Form\obj\Debug\Multiple Pages On The Form.csproj.CoreCompileInputs.cache
+C:\Users\neva\Documents\visual studio projeleri\Multiple Pages On The Form\obj\Debug\Multiple Pages On The Form.exe
+C:\Users\neva\Documents\visual studio projeleri\Multiple Pages On The Form\obj\Debug\Multiple Pages On The Form.pdb
