@@ -1,0 +1,14 @@
+C:\Users\neva\Documents\visual studio projeleri\userlogin\obj\Debug\userlogin.csproj.AssemblyReference.cache
+C:\Users\neva\Documents\visual studio projeleri\userlogin\obj\Debug\userlogin.Form1.resources
+C:\Users\neva\Documents\visual studio projeleri\userlogin\obj\Debug\userlogin.Properties.Resources.resources
+C:\Users\neva\Documents\visual studio projeleri\userlogin\obj\Debug\userlogin.csproj.GenerateResource.cache
+C:\Users\neva\Documents\visual studio projeleri\userlogin\obj\Debug\userlogin.csproj.CoreCompileInputs.cache
+C:\Users\neva\Documents\visual studio projeleri\userlogin\bin\Debug\userlogin.exe.config
+C:\Users\neva\Documents\visual studio projeleri\userlogin\bin\Debug\userlogin.exe
+C:\Users\neva\Documents\visual studio projeleri\userlogin\bin\Debug\userlogin.pdb
+C:\Users\neva\Documents\visual studio projeleri\userlogin\obj\Debug\userlogin.exe
+C:\Users\neva\Documents\visual studio projeleri\userlogin\obj\Debug\userlogin.pdb
+C:\Users\neva\Documents\visual studio projeleri\userlogin\bin\Debug\zu\userlogin.resources.dll
+C:\Users\neva\Documents\visual studio projeleri\userlogin\obj\Debug\userlogin.Form1.zu.resources
+C:\Users\neva\Documents\visual studio projeleri\userlogin\obj\Debug\zu\userlogin.resources.dll
+C:\Users\neva\Documents\visual studio projeleri\userlogin\obj\Debug\userlogin.Form2.resources
