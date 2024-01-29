@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\neva\Documents\visual studio projeleri\Kilo Simulator\Main.cpp(64,18): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  Kilo Simulator.vcxproj -> C:\Users\neva\Documents\visual studio projeleri\Kilo Simulator\x64\Debug\Kilo Simulator.exe
