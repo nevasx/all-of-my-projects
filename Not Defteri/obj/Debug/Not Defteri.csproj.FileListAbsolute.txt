@@ -1,0 +1,10 @@
+C:\Users\neva\Documents\visual studio projeleri\Not Defteri\bin\Debug\Not Defteri.exe.config
+C:\Users\neva\Documents\visual studio projeleri\Not Defteri\bin\Debug\Not Defteri.exe
+C:\Users\neva\Documents\visual studio projeleri\Not Defteri\bin\Debug\Not Defteri.pdb
+C:\Users\neva\Documents\visual studio projeleri\Not Defteri\obj\Debug\Not Defteri.csproj.AssemblyReference.cache
+C:\Users\neva\Documents\visual studio projeleri\Not Defteri\obj\Debug\Not_Defteri.Form1.resources
+C:\Users\neva\Documents\visual studio projeleri\Not Defteri\obj\Debug\Not_Defteri.Properties.Resources.resources
+C:\Users\neva\Documents\visual studio projeleri\Not Defteri\obj\Debug\Not Defteri.csproj.GenerateResource.cache
+C:\Users\neva\Documents\visual studio projeleri\Not Defteri\obj\Debug\Not Defteri.csproj.CoreCompileInputs.cache
+C:\Users\neva\Documents\visual studio projeleri\Not Defteri\obj\Debug\Not Defteri.exe
+C:\Users\neva\Documents\visual studio projeleri\Not Defteri\obj\Debug\Not Defteri.pdb
